@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Prijava</name>
+   <tag></tag>
+   <elementGuidId>df5fc844-d7e6-419d-85dc-8c5ffebf82c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-white']/div/div[2]/div[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.header-small-menu.user-auth.user-login > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1dfb981d-20b9-4655-88e5-d6abf008ca08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prijava</value>
+      <webElementGuid>36696363-7461-418b-a86d-eb96fb3ba1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-white&quot;)/div[@class=&quot;header-white-centering&quot;]/div[@class=&quot;header-white-selectors-wrapper&quot;]/div[@class=&quot;selector user-auth&quot;]/a[@class=&quot;header-small-menu user-auth user-login&quot;]/span[1]</value>
+      <webElementGuid>9156be2a-e774-44d0-b101-ccfe0c6611fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-white']/div/div[2]/div[5]/a/span</value>
+      <webElementGuid>80282532-53fc-494c-bcee-b023b705823c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registrirajte se'])[1]/following::span[1]</value>
+      <webElementGuid>4d52d44f-7849-49c7-856e-d95502427e0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Karijera'])[1]/following::span[2]</value>
+      <webElementGuid>cbc01c54-4349-4f29-8b2d-c469cbdb335a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Košarica'])[1]/preceding::span[1]</value>
+      <webElementGuid>c0a38c31-b11d-487d-8c65-80119ae4bf30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Prijava']/parent::*</value>
+      <webElementGuid>980fa48d-1b02-4c63-8a8f-830c91761827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/a/span</value>
+      <webElementGuid>2b0f6a84-f372-4f29-bae7-bb81b43005cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Prijava' or . = 'Prijava')]</value>
+      <webElementGuid>1fc684d8-e263-427f-aca7-e9257dce49aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

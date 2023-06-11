@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Dan123456789101112131415161718192021_4018b4</name>
+   <tag></tag>
+   <elementGuidId>a6dc48a8-810b-4678-9fc1-fe910f699c7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='DateOfBirthDay']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;DateOfBirthDay&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4eb23c56-92d0-44f6-bc8c-57cdd6ec4839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>DateOfBirthDay</value>
+      <webElementGuid>e7063eba-07a0-4af3-867b-c3b05dbb5b43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dan12345678910111213141516171819202122232425262728293031</value>
+      <webElementGuid>8595f64b-3476-42c7-99c7-e49a07dcd267</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit114 js no-touch svg inlinesvg svgclippaths&quot;]/body[@class=&quot;color-neutral notAndroid23&quot;]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-2b&quot;]/form[1]/div[@class=&quot;page registration-page&quot;]/div[@class=&quot;customer-blocks&quot;]/div[@class=&quot;fieldset&quot;]/div[@class=&quot;form-fields&quot;]/div[@class=&quot;inputs left&quot;]/select[1]</value>
+      <webElementGuid>c17229f3-a2e2-493f-b016-cd841237b1cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='DateOfBirthDay']</value>
+      <webElementGuid>11f22dd9-2ab9-4535-938e-8e8dc4493ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Datum rođenja:'])[1]/following::select[1]</value>
+      <webElementGuid>0df3cb00-b574-4789-bb38-e04c1cb3526f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prezime:'])[1]/following::select[1]</value>
+      <webElementGuid>eb5cd7dc-3e59-4449-879a-cd4c6e1b589f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronska pošta:'])[1]/preceding::select[3]</value>
+      <webElementGuid>b7cf48c2-e327-40fb-ab40-9ff96078ef8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vaša adresa'])[1]/preceding::select[3]</value>
+      <webElementGuid>ed34f0ed-7624-4104-bab8-2b0bc1bfdcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/select</value>
+      <webElementGuid>1969bad8-d398-4ef3-8410-211a8c171500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'DateOfBirthDay' and (text() = 'Dan12345678910111213141516171819202122232425262728293031' or . = 'Dan12345678910111213141516171819202122232425262728293031')]</value>
+      <webElementGuid>e0a59003-05a5-4960-a3f3-ad3966da5df6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
