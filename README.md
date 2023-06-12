@@ -20,7 +20,7 @@ Projekt odrađen za kolegij Metode i tehnike testiranja programske podrške, te 
 
 Katalon Studio je integrirano razvojno okruženje (IDE) za automatizirano testiranje, posebno namijenjeno web i mobilnim aplikacijama.
 
-** Infomacije o načinu korištenja **
+**Infomacije o načinu korištenja**
 
 1. Instalacija: Preuzmite i instalirajte Katalon Studio s web stranice Katalon-a.
 2. Kreiranje projekta: Pokrenite Katalon Studio i stvorite novi projekt. Odaberite vrstu projekta (web, mobilno ili API testiranje) i konfigurirajte postavke projekta.
